@@ -1,0 +1,14 @@
+C:\Users\elisa\source\repos\Pr03 - CSharpData\Pr03 - CSharpData\bin\Debug\net6.0\Pr03 - CSharpData.exe
+C:\Users\elisa\source\repos\Pr03 - CSharpData\Pr03 - CSharpData\bin\Debug\net6.0\Pr03 - CSharpData.deps.json
+C:\Users\elisa\source\repos\Pr03 - CSharpData\Pr03 - CSharpData\bin\Debug\net6.0\Pr03 - CSharpData.runtimeconfig.json
+C:\Users\elisa\source\repos\Pr03 - CSharpData\Pr03 - CSharpData\bin\Debug\net6.0\Pr03 - CSharpData.dll
+C:\Users\elisa\source\repos\Pr03 - CSharpData\Pr03 - CSharpData\bin\Debug\net6.0\Pr03 - CSharpData.pdb
+C:\Users\elisa\source\repos\Pr03 - CSharpData\Pr03 - CSharpData\obj\Debug\net6.0\Pr03 - CSharpData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elisa\source\repos\Pr03 - CSharpData\Pr03 - CSharpData\obj\Debug\net6.0\Pr03 - CSharpData.AssemblyInfoInputs.cache
+C:\Users\elisa\source\repos\Pr03 - CSharpData\Pr03 - CSharpData\obj\Debug\net6.0\Pr03 - CSharpData.AssemblyInfo.cs
+C:\Users\elisa\source\repos\Pr03 - CSharpData\Pr03 - CSharpData\obj\Debug\net6.0\Pr03 - CSharpData.csproj.CoreCompileInputs.cache
+C:\Users\elisa\source\repos\Pr03 - CSharpData\Pr03 - CSharpData\obj\Debug\net6.0\Pr03 - CSharpData.dll
+C:\Users\elisa\source\repos\Pr03 - CSharpData\Pr03 - CSharpData\obj\Debug\net6.0\refint\Pr03 - CSharpData.dll
+C:\Users\elisa\source\repos\Pr03 - CSharpData\Pr03 - CSharpData\obj\Debug\net6.0\Pr03 - CSharpData.pdb
+C:\Users\elisa\source\repos\Pr03 - CSharpData\Pr03 - CSharpData\obj\Debug\net6.0\Pr03 - CSharpData.genruntimeconfig.cache
+C:\Users\elisa\source\repos\Pr03 - CSharpData\Pr03 - CSharpData\obj\Debug\net6.0\ref\Pr03 - CSharpData.dll
