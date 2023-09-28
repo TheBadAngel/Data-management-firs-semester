@@ -1,0 +1,14 @@
+C:\Users\elisa\OneDrive\UCL\Simple menu med valg\Simple menu med valg\bin\Debug\net6.0\Simple menu med valg.exe
+C:\Users\elisa\OneDrive\UCL\Simple menu med valg\Simple menu med valg\bin\Debug\net6.0\Simple menu med valg.deps.json
+C:\Users\elisa\OneDrive\UCL\Simple menu med valg\Simple menu med valg\bin\Debug\net6.0\Simple menu med valg.runtimeconfig.json
+C:\Users\elisa\OneDrive\UCL\Simple menu med valg\Simple menu med valg\bin\Debug\net6.0\Simple menu med valg.dll
+C:\Users\elisa\OneDrive\UCL\Simple menu med valg\Simple menu med valg\bin\Debug\net6.0\Simple menu med valg.pdb
+C:\Users\elisa\OneDrive\UCL\Simple menu med valg\Simple menu med valg\obj\Debug\net6.0\Simple menu med valg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elisa\OneDrive\UCL\Simple menu med valg\Simple menu med valg\obj\Debug\net6.0\Simple menu med valg.AssemblyInfoInputs.cache
+C:\Users\elisa\OneDrive\UCL\Simple menu med valg\Simple menu med valg\obj\Debug\net6.0\Simple menu med valg.AssemblyInfo.cs
+C:\Users\elisa\OneDrive\UCL\Simple menu med valg\Simple menu med valg\obj\Debug\net6.0\Simple menu med valg.csproj.CoreCompileInputs.cache
+C:\Users\elisa\OneDrive\UCL\Simple menu med valg\Simple menu med valg\obj\Debug\net6.0\Simple menu med valg.dll
+C:\Users\elisa\OneDrive\UCL\Simple menu med valg\Simple menu med valg\obj\Debug\net6.0\refint\Simple menu med valg.dll
+C:\Users\elisa\OneDrive\UCL\Simple menu med valg\Simple menu med valg\obj\Debug\net6.0\Simple menu med valg.pdb
+C:\Users\elisa\OneDrive\UCL\Simple menu med valg\Simple menu med valg\obj\Debug\net6.0\Simple menu med valg.genruntimeconfig.cache
+C:\Users\elisa\OneDrive\UCL\Simple menu med valg\Simple menu med valg\obj\Debug\net6.0\ref\Simple menu med valg.dll

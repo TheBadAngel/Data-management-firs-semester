@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Simple menu med valg/1.0.0": {
+        "runtime": {
+          "Simple menu med valg.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Simple menu med valg/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
