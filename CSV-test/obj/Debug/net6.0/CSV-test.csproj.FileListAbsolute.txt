@@ -1,0 +1,14 @@
+C:\Users\elisa\source\repos\CSV-test\obj\Debug\net6.0\CSV-test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elisa\source\repos\CSV-test\obj\Debug\net6.0\CSV-test.AssemblyInfoInputs.cache
+C:\Users\elisa\source\repos\CSV-test\obj\Debug\net6.0\CSV-test.AssemblyInfo.cs
+C:\Users\elisa\source\repos\CSV-test\obj\Debug\net6.0\CSV-test.csproj.CoreCompileInputs.cache
+C:\Users\elisa\source\repos\CSV-test\bin\Debug\net6.0\CSV-test.exe
+C:\Users\elisa\source\repos\CSV-test\bin\Debug\net6.0\CSV-test.deps.json
+C:\Users\elisa\source\repos\CSV-test\bin\Debug\net6.0\CSV-test.runtimeconfig.json
+C:\Users\elisa\source\repos\CSV-test\bin\Debug\net6.0\CSV-test.dll
+C:\Users\elisa\source\repos\CSV-test\bin\Debug\net6.0\CSV-test.pdb
+C:\Users\elisa\source\repos\CSV-test\obj\Debug\net6.0\CSV-test.dll
+C:\Users\elisa\source\repos\CSV-test\obj\Debug\net6.0\refint\CSV-test.dll
+C:\Users\elisa\source\repos\CSV-test\obj\Debug\net6.0\CSV-test.pdb
+C:\Users\elisa\source\repos\CSV-test\obj\Debug\net6.0\CSV-test.genruntimeconfig.cache
+C:\Users\elisa\source\repos\CSV-test\obj\Debug\net6.0\ref\CSV-test.dll
