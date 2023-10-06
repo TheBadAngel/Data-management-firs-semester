@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\elisa\\source\\repos\\Disaheim\\Disaheim.csproj",
+      "projectUniqueName": "C:\\Users\\elisa\\source\\repos\\Data-management-firs-semester\\Disaheim\\Disaheim.csproj",
       "projectName": "Disaheim",
-      "projectPath": "C:\\Users\\elisa\\source\\repos\\Disaheim\\Disaheim.csproj",
+      "projectPath": "C:\\Users\\elisa\\source\\repos\\Data-management-firs-semester\\Disaheim\\Disaheim.csproj",
       "packagesPath": "C:\\Users\\elisa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\elisa\\source\\repos\\Disaheim\\obj\\",
+      "outputPath": "C:\\Users\\elisa\\source\\repos\\Data-management-firs-semester\\Disaheim\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\elisa\\AppData\\Roaming\\NuGet\\NuGet.Config",

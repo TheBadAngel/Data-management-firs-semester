@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\elisa\\OneDrive\\UCL\\Programering\\Datahåndtering\\Datahåndtering\\Datahåndtering.csproj",
+      "projectUniqueName": "C:\\Users\\elisa\\source\\repos\\Data-management-firs-semester\\Datahåndtering\\Datahåndtering\\Datahåndtering.csproj",
       "projectName": "Datahåndtering",
-      "projectPath": "C:\\Users\\elisa\\OneDrive\\UCL\\Programering\\Datahåndtering\\Datahåndtering\\Datahåndtering.csproj",
+      "projectPath": "C:\\Users\\elisa\\source\\repos\\Data-management-firs-semester\\Datahåndtering\\Datahåndtering\\Datahåndtering.csproj",
       "packagesPath": "C:\\Users\\elisa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\elisa\\OneDrive\\UCL\\Programering\\Datahåndtering\\Datahåndtering\\obj\\",
+      "outputPath": "C:\\Users\\elisa\\source\\repos\\Data-management-firs-semester\\Datahåndtering\\Datahåndtering\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\elisa\\AppData\\Roaming\\NuGet\\NuGet.Config",
