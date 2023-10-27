@@ -6,36 +6,19 @@ using System.Threading.Tasks;
 
 namespace Disaheim
 {
-    public class Amulet
+    public class Amulet : Merchandise
     {
-        private string itemId;
-
-        public string ItemId
-        {
-            get { return itemId; }
-            set { itemId = value; }
-        }
+       // private string itemId;
+        //public string ItemId { get; set; }
 
         private string design;
-
-        public string Design
-        {
-            get { return design; }
-            set { design = value; }
-        }
+        public string Design { get; set; }
 
         private Level quality = Level.medium;
-
-        public Level Quality
+        public Level Quality { get; set; }
+        public Amulet(string itemId, Level quality, string design) : this(itemId, quality)
         {
-            get { return quality; }
-            set { quality = value; }
-        }
-
-
-        public Amulet(string itemId)
-        {
-            this.itemId = itemId;
+            this.design = design;
         }
 
         public Amulet(string itemId, Level quality) : this(itemId)
@@ -43,11 +26,12 @@ namespace Disaheim
             this.quality = quality;
         }
 
-
-        public Amulet(string itemId, Level quality, string design) : this(itemId, quality)
+        public Amulet(string itemId) : base(itemId)
         {
-            this.design = design;
+            ItemId = itemId;
+
         }
+
 
         public override string ToString()
         {
