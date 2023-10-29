@@ -8,14 +8,15 @@ namespace Disaheim
 {
     public abstract class Merchandise
     {
-        private string itemId;
-        public string ItemId { get; set; }
+        private string _itemId;
+        public string ItemId { get { return _itemId; } set { _itemId = value; } }
 
-        public Merchandise (string itemId) {  this.itemId = itemId; }
 
-        public override string ToString()
+
+        public virtual string ToString()
         {
-            return $"ItemId: {itemId}";
+            return "";
+            
         }
 
 

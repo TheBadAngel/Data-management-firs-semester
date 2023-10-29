@@ -1,10 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Reflection.Emit;
+using Disaheim;
 
-namespace Disaheim
+namespace UtilityLib
 {
     public class Utility
     {
@@ -33,7 +30,26 @@ namespace Disaheim
             }
         }
 
+        public double GetValueOfCourse(Course course)
+        {
+            double result = 0;
+            int hourePrice = 875;
+            int remainder = course.DurationInMinutes % 60;
 
+            if (remainder > 0)
+            {
+                result = (course.DurationInMinutes / 60 + 1) * hourePrice;
+            }
+            else if (remainder == 0)
+            {
+                result = course.DurationInMinutes / 60 * hourePrice;
+            }
+
+            return result;
+
+
+        }
 
     }
+
 }

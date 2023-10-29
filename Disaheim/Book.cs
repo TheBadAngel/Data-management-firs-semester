@@ -9,29 +9,31 @@ namespace Disaheim
     public class Book : Merchandise
     {
 
-       // public string ItemId { get; set; }
+        public string ItemId { get; set; }
         public string Title { get; set; }
         public double Price { get; set; }
 
-        public Book(string itemId, string title, double price) : this(itemId, title)
+        public Book(string itemId, string title, double price) 
         {
             Price = price;
-        }
-
-
-        public Book(string itemId, string title) : this(itemId)
-        {
             Title = title;
+            ItemId = itemId;
         }
 
-        public Book(string itemId) : base(itemId)
+
+        public Book(string itemId, string title) : this(itemId, title,0)
         {
-            ItemId = itemId;
+
+        }
+
+        public Book(string itemId) : this(itemId,"")
+        {
+
         }
 
         public override string ToString()
         {
-            return $"ItemId: Title: {Title}, Price: {Price}";
+            return $"ItemId: {ItemId}, Title: {Title}, Price: {Price}";
         }
 
 

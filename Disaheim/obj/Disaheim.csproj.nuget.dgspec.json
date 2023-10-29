@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elisa\\source\\repos\\Data-management-firs-semester\\Disaheim\\Disaheim.csproj": {}
+    "C:\\Users\\Elisabeth\\Source\\Repos\\TheBadAngel\\Data-management-firs-semester\\Disaheim\\Disaheim.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elisa\\source\\repos\\Data-management-firs-semester\\Disaheim\\Disaheim.csproj": {
+    "C:\\Users\\Elisabeth\\Source\\Repos\\TheBadAngel\\Data-management-firs-semester\\Disaheim\\Disaheim.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elisa\\source\\repos\\Data-management-firs-semester\\Disaheim\\Disaheim.csproj",
+        "projectUniqueName": "C:\\Users\\Elisabeth\\Source\\Repos\\TheBadAngel\\Data-management-firs-semester\\Disaheim\\Disaheim.csproj",
         "projectName": "Disaheim",
-        "projectPath": "C:\\Users\\elisa\\source\\repos\\Data-management-firs-semester\\Disaheim\\Disaheim.csproj",
-        "packagesPath": "C:\\Users\\elisa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elisa\\source\\repos\\Data-management-firs-semester\\Disaheim\\obj\\",
+        "projectPath": "C:\\Users\\Elisabeth\\Source\\Repos\\TheBadAngel\\Data-management-firs-semester\\Disaheim\\Disaheim.csproj",
+        "packagesPath": "C:\\Users\\Elisabeth\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Elisabeth\\Source\\Repos\\TheBadAngel\\Data-management-firs-semester\\Disaheim\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\elisa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Elisabeth\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
