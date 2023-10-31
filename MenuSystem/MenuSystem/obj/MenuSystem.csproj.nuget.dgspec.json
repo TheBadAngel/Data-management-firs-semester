@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elisa\\source\\repos\\MenuSystem\\MenuSystem\\MenuSystem.csproj": {}
+    "C:\\Users\\Elisabeth\\source\\repos\\TheBadAngel\\Data-management-firs-semester\\MenuSystem\\MenuSystem\\MenuSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elisa\\source\\repos\\MenuSystem\\MenuSystem\\MenuSystem.csproj": {
+    "C:\\Users\\Elisabeth\\source\\repos\\TheBadAngel\\Data-management-firs-semester\\MenuSystem\\MenuSystem\\MenuSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elisa\\source\\repos\\MenuSystem\\MenuSystem\\MenuSystem.csproj",
+        "projectUniqueName": "C:\\Users\\Elisabeth\\source\\repos\\TheBadAngel\\Data-management-firs-semester\\MenuSystem\\MenuSystem\\MenuSystem.csproj",
         "projectName": "MenuSystem",
-        "projectPath": "C:\\Users\\elisa\\source\\repos\\MenuSystem\\MenuSystem\\MenuSystem.csproj",
-        "packagesPath": "C:\\Users\\elisa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elisa\\source\\repos\\MenuSystem\\MenuSystem\\obj\\",
+        "projectPath": "C:\\Users\\Elisabeth\\source\\repos\\TheBadAngel\\Data-management-firs-semester\\MenuSystem\\MenuSystem\\MenuSystem.csproj",
+        "packagesPath": "C:\\Users\\Elisabeth\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Elisabeth\\source\\repos\\TheBadAngel\\Data-management-firs-semester\\MenuSystem\\MenuSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\elisa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Elisabeth\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

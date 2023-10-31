@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elisa\\source\\repos\\Data-management-firs-semester\\Datahåndtering\\Datahåndtering\\Datahåndtering.csproj": {}
+    "C:\\Users\\Elisabeth\\source\\repos\\TheBadAngel\\Data-management-firs-semester\\Datahåndtering\\Datahåndtering\\Datahåndtering.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elisa\\source\\repos\\Data-management-firs-semester\\Datahåndtering\\Datahåndtering\\Datahåndtering.csproj": {
+    "C:\\Users\\Elisabeth\\source\\repos\\TheBadAngel\\Data-management-firs-semester\\Datahåndtering\\Datahåndtering\\Datahåndtering.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elisa\\source\\repos\\Data-management-firs-semester\\Datahåndtering\\Datahåndtering\\Datahåndtering.csproj",
+        "projectUniqueName": "C:\\Users\\Elisabeth\\source\\repos\\TheBadAngel\\Data-management-firs-semester\\Datahåndtering\\Datahåndtering\\Datahåndtering.csproj",
         "projectName": "Datahåndtering",
-        "projectPath": "C:\\Users\\elisa\\source\\repos\\Data-management-firs-semester\\Datahåndtering\\Datahåndtering\\Datahåndtering.csproj",
-        "packagesPath": "C:\\Users\\elisa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elisa\\source\\repos\\Data-management-firs-semester\\Datahåndtering\\Datahåndtering\\obj\\",
+        "projectPath": "C:\\Users\\Elisabeth\\source\\repos\\TheBadAngel\\Data-management-firs-semester\\Datahåndtering\\Datahåndtering\\Datahåndtering.csproj",
+        "packagesPath": "C:\\Users\\Elisabeth\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Elisabeth\\source\\repos\\TheBadAngel\\Data-management-firs-semester\\Datahåndtering\\Datahåndtering\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\elisa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Elisabeth\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

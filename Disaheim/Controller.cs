@@ -8,16 +8,16 @@ namespace Disaheim
 {
     public class Controller
     {
-        private List<Book> books;
-        public List<Book> Books { get { return books; } set { books = value; } }
+        private List<Book> _books;
+        public List<Book> Books { get { return _books; } set { _books = value; } }
 
-        private List<Amulet> amulets;
-        public List<Amulet> Amulets { get { return amulets; } set { amulets = value; } }
+        private List<Amulet> _amulets;
+        public List<Amulet> Amulets { get { return _amulets; } set { _amulets = value; } }
 
-        private List<Course> courses;
-        public List<Course> Courses { get { return courses; } set { courses = value; } }
+        private List<Course> _courses;
+        public List<Course> Courses { get { return _courses; } set { _courses = value; } }
         
-        public Controller() 
+        public Controller () 
         { 
             Books = new List<Book>();
             Amulets = new List<Amulet>();
@@ -37,7 +37,7 @@ namespace Disaheim
 
         public void AddToList(Course course)
         {
-            courses.Add(course);
+            Courses.Add(course);
         }
 
 

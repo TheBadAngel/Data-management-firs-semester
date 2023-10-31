@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\elisa\\.nuget\\packages\\": {}
+    "C:\\Users\\Elisabeth\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\elisa\\source\\repos\\Pr03 - CSharpData\\Pr03 - CSharpData\\Pr03 - CSharpData.csproj",
+      "projectUniqueName": "C:\\Users\\Elisabeth\\source\\repos\\TheBadAngel\\Data-management-firs-semester\\Pr03 - CSharpData\\Pr03 - CSharpData\\Pr03 - CSharpData.csproj",
       "projectName": "Pr03 - CSharpData",
-      "projectPath": "C:\\Users\\elisa\\source\\repos\\Pr03 - CSharpData\\Pr03 - CSharpData\\Pr03 - CSharpData.csproj",
-      "packagesPath": "C:\\Users\\elisa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\elisa\\source\\repos\\Pr03 - CSharpData\\Pr03 - CSharpData\\obj\\",
+      "projectPath": "C:\\Users\\Elisabeth\\source\\repos\\TheBadAngel\\Data-management-firs-semester\\Pr03 - CSharpData\\Pr03 - CSharpData\\Pr03 - CSharpData.csproj",
+      "packagesPath": "C:\\Users\\Elisabeth\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Elisabeth\\source\\repos\\TheBadAngel\\Data-management-firs-semester\\Pr03 - CSharpData\\Pr03 - CSharpData\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\elisa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Elisabeth\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
