@@ -18,22 +18,33 @@ namespace Disaheim
 
 
 
-        public string GetBook(Book book)
+        public Book GetBook(string itemId)
         {
 
-          
-            if (_books.Contains(itemId))
+            Book book = null; 
+            foreach (Book b in _books)
             {
-                return book.ItemId;
+                if (b.ItemId == itemId)
+                {
+                    book = b;
+                    break;
+                }
             }
-            return;
-
+            return book;
 
         }
 
-        public double GetTotalValue(Book book)
+        public double GetTotalValue()
         {
-            return book.Price;
+            Utility utility=new Utility();
+            double total = 0.0;
+
+            foreach (Book book in _books)
+            {
+                total += utility.GetValueOfBook(book);
+            }
+
+            return total;
         }
 
 
