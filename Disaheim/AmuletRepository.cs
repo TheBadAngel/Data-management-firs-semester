@@ -37,7 +37,7 @@ namespace Disaheim
             double total = 0.0;
             foreach (Amulet amulet in _amulet)
             {
-                total += utility.GetValueOfAmulet(amulet);
+                total += utility.GetValueOfMerchandise(amulet);
             }
 
             return total;

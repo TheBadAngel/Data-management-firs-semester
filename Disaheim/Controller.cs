@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Disaheim
 {
-    public class Controller
+    public class Controller 
     {
         private List<Book> _books;
         public List<Book> Books { get { return _books; } set { _books = value; } }
@@ -16,12 +16,16 @@ namespace Disaheim
 
         private List<Course> _courses;
         public List<Course> Courses { get { return _courses; } set { _courses = value; } }
+
+       
+
         
         public Controller () 
         { 
             Books = new List<Book>();
             Amulets = new List<Amulet>();
             Courses = new List<Course>();
+          
         }
 
         public void AddToList(Book book) 
@@ -40,7 +44,10 @@ namespace Disaheim
             Courses.Add(course);
         }
 
-
+        public void AddToList(IValuable valuables)
+        {
+            IValuable.Add(valuables);
+        }
 
 
 

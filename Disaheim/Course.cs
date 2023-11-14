@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Disaheim
 {
-    public class Course
+    public class Course : IValuable
     {
         public string Name { get; set; }
 
@@ -29,6 +29,13 @@ namespace Disaheim
             return $"Name: {Name}, Duration in Minutes: {DurationInMinutes}";
         }
 
+        static double CourseHourValue = 875.0;
+
+
+        public double GetValue()
+        { return CourseHourValue; }
+
+       
 
 
     }

@@ -9,15 +9,15 @@ namespace Disaheim
     public class Amulet : Merchandise
     {
         private string _itemId;
-        public string ItemId { get { return _itemId; } set{ _itemId = value; } }
+        public string ItemId { get { return _itemId; } set { _itemId = value; } }
 
         private string _design;
         public string Design { get { return _design; } set { _design = value; } }
 
         private Level _quality;
         public Level Quality { get { return _quality; } set { _quality = value; } }
-       
-        public Amulet(string itemId, Level quality, string design) 
+
+        public Amulet(string itemId, Level quality, string design)
         {
             ItemId = itemId;
             Quality = quality;
@@ -26,12 +26,12 @@ namespace Disaheim
 
         public Amulet(string itemId, Level quality) : this(itemId, quality, "")
         {
-           
+
         }
 
         public Amulet(string itemId) : this(itemId, Level.medium)
         {
-            
+
 
         }
 
@@ -42,6 +42,36 @@ namespace Disaheim
         }
 
 
+        static double LowQualityValue = 12.5;
+        static double MediumQualityValue = 20.00;
+        static double HighQualityValue = 57.5;
 
+
+        public override double GetValue()
+        {
+
+            switch (Quality)
+            {
+                case Level.low:
+                    return LowQualityValue;
+
+                case Level.medium:
+                    return MediumQualityValue;
+
+                case Level.high:
+                    return HighQualityValue;
+
+                default:
+                   return 0.0; //in case neither low, medium or high exists.
+                };
+                
+            }
+
+
+
+
+
+
+
+        }
     }
-}

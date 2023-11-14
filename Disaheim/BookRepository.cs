@@ -41,7 +41,7 @@ namespace Disaheim
 
             foreach (Book book in _books)
             {
-                total += utility.GetValueOfBook(book);
+                total += utility.GetValueOfMerchandise(book);
             }
 
             return total;

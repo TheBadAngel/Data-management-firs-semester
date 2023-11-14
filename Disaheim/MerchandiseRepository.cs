@@ -13,7 +13,7 @@ namespace Disaheim
 
         public void AddMerchandise(Merchandise merchandise)
         {
-            _merchandises.Add(merchandise);
+            _merchandise.Add(merchandise);
         }
 
         public Merchandise GetMerchandise(string itemId)
