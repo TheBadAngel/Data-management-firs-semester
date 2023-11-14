@@ -24,19 +24,32 @@ namespace Disaheim
         
         }
 
-        public override string ToString() 
+
+
+        public static double CourseHourValue = 875.0;
+    
+        public double GetValue()
         {
-            return $"Name: {Name}, Duration in Minutes: {DurationInMinutes}";
+            double result = 0;
+            int remainder = DurationInMinutes % 60;
+
+            if (remainder > 0)
+            {
+                result = (DurationInMinutes / 60 + 1) * CourseHourValue;
+            }
+            else if (remainder == 0)
+            {
+                result = DurationInMinutes / 60 * CourseHourValue;
+            }
+
+            return result;
         }
 
-        static double CourseHourValue = 875.0;
-
-
-        public double GetValue()
-        { return CourseHourValue; }
-
+        public override string ToString() 
+        {
+            return $"Name: {Name}, Duration in Minutes: {DurationInMinutes}, Value: {GetValue()}";
+        }
        
-
 
     }
 }

@@ -43,8 +43,8 @@ namespace Disaheim
 
 
         static double LowQualityValue = 12.5;
-        static double MediumQualityValue = 20.00;
-        static double HighQualityValue = 57.5;
+        static double MediumQualityValue = 20.0;
+        static double HighQualityValue = 27.5;
 
 
         public override double GetValue()
@@ -62,16 +62,16 @@ namespace Disaheim
                     return HighQualityValue;
 
                 default:
-                   return 0.0; //in case neither low, medium or high exists.
-                };
-                
-            }
-
-
-
-
-
-
+                    return 0.0; //in case neither low, medium or high exists.
+            };
 
         }
+
+
+
+
+
+
+
     }
+}

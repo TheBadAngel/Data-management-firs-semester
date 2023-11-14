@@ -12,16 +12,13 @@ namespace Disaheim
         public string ItemId { get { return _itemId; } set { _itemId = value; } }
 
 
-
-        public virtual string ToString()
-        {
-            return "";
-            
-        }
-
-
         public abstract double GetValue();
 
+        public override string ToString()
+        {
+            return $"ItemId: {ItemId}";
+            
+        }
 
 
     }

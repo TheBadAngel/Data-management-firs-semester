@@ -17,14 +17,16 @@ namespace Disaheim
         private List<Course> _courses;
         public List<Course> Courses { get { return _courses; } set { _courses = value; } }
 
-       
+        private List<IValuable> _valuables;
+        public List<IValuable> Valuables { get { return _valuables; } set { _valuables = value; } }
 
-        
+
         public Controller () 
         { 
             Books = new List<Book>();
             Amulets = new List<Amulet>();
             Courses = new List<Course>();
+
           
         }
 
@@ -44,9 +46,9 @@ namespace Disaheim
             Courses.Add(course);
         }
 
-        public void AddToList(IValuable valuables)
+        public void AddToList(IValuable valuable)
         {
-            IValuable.Add(valuables);
+            Valuables.Add(valuable);
         }
 
 

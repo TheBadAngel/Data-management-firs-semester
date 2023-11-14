@@ -241,5 +241,5 @@ namespace DisaheimTest
             Assert.AreEqual(5433.55, repo.GetTotalValue());
         }
     }
-
+}
 

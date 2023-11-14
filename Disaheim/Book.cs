@@ -17,7 +17,7 @@ namespace Disaheim
         {
             Price = price;
             Title = title;
-            ItemId = itemId;
+            base.ItemId = itemId;
         }
 
 
@@ -30,13 +30,16 @@ namespace Disaheim
         {
 
         }
+        public override double GetValue() 
+        {
+            return Price; 
+        }
 
         public override string ToString()
         {
             return $"ItemId: {ItemId}, Title: {Title}, Price: {Price}";
         }
 
-        public override double GetValue() { return Price; }
 
     }
 }
