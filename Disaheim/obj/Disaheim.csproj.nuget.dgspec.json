@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elisa\\Source\\Repos\\TheBadAngel\\Data-management-firs-semester\\Disaheim\\Disaheim.csproj": {}
+    "C:\\Users\\elisa\\source\\repos\\TheBadAngel\\Data-management-firs-semester\\Disaheim\\Disaheim.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elisa\\Source\\Repos\\TheBadAngel\\Data-management-firs-semester\\Disaheim\\Disaheim.csproj": {
+    "C:\\Users\\elisa\\source\\repos\\TheBadAngel\\Data-management-firs-semester\\Disaheim\\Disaheim.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elisa\\Source\\Repos\\TheBadAngel\\Data-management-firs-semester\\Disaheim\\Disaheim.csproj",
+        "projectUniqueName": "C:\\Users\\elisa\\source\\repos\\TheBadAngel\\Data-management-firs-semester\\Disaheim\\Disaheim.csproj",
         "projectName": "Disaheim",
-        "projectPath": "C:\\Users\\elisa\\Source\\Repos\\TheBadAngel\\Data-management-firs-semester\\Disaheim\\Disaheim.csproj",
+        "projectPath": "C:\\Users\\elisa\\source\\repos\\TheBadAngel\\Data-management-firs-semester\\Disaheim\\Disaheim.csproj",
         "packagesPath": "C:\\Users\\elisa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elisa\\Source\\Repos\\TheBadAngel\\Data-management-firs-semester\\Disaheim\\obj\\",
+        "outputPath": "C:\\Users\\elisa\\source\\repos\\TheBadAngel\\Data-management-firs-semester\\Disaheim\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elisa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

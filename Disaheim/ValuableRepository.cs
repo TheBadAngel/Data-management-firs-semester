@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace Disaheim
 {
-    public class ValuableRepository
+    public class ValuableRepository : IPersistable
     {
+
+
         private List<IValuable> _valuables = new List<IValuable>();
 
         public void AddValuable(IValuable valuable)
@@ -55,6 +57,12 @@ namespace Disaheim
         {
             return _valuables.Count;
         }
+
+
+
+
+
+
 
 
     }
